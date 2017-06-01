@@ -1,3 +1,4 @@
 libs-dojo-python/
 *.pyc
 log.txt
+questions.txt
